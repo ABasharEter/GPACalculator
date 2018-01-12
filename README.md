@@ -4,14 +4,42 @@ A small piece of software to calculate your 4.0 GPA from US GPA or Syrian GPA.
 You can use this code to calculate your 4.0 GPA from a CSV file which contains your grades and your credit hour pre subject.
 The only requirement is that you have two columns in the CSV file on for grades and the other for credit hour and then each row contains a subject data.
 * Example1 CSV file of Syrian grades:
-| Physics     | 80 | 2 |
-| Mathematics | 95 | 4 |
-| Programming | 60 | 3 |
+<table>
+  <tr>
+    <td>Physics</td>
+    <td>80</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Matdematics</td>
+    <td>95</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>Programming</td>
+    <td>60</td>
+    <td>3</td>
+  </tr>
+</table>
 In this table we have the first column is subject name (optional) the second column the grade the third column credit hour for this subject.
 * Example1 CSV file of US grades:
-| Physics     | B+ | 2 |
-| Mathematics | A+ | 4 |
-| Programming | D- | 3 |
+<table>
+  <tr>
+    <td>Physics</td>
+    <td>B</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Matdematics</td>
+    <td>A+</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>Programming</td>
+    <td>C</td>
+    <td>3</td>
+  </tr>
+</table>
 
 # Usage 
 * Convert US Grad to 4.0 GPA  
