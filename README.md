@@ -1,4 +1,4 @@
-# GPACalculater
+# GPACalculator
 A small piece of software to calculate your 4.0 GPA from US GPA or Syrian GPA.  
 # GPA Input method 
 You can use this code to calculate your 4.0 GPA from a CSV file which contains your grades and your credit hour pre subject.
